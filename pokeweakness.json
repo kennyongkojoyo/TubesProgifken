@@ -1,0 +1,757 @@
+{
+  "pokemon1" : {
+    "id_poke": "1",
+    "pokemon": "Bulbasaur",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon2" : {
+    "id_poke": "2",
+    "pokemon": "Ivysaur",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon3" : {
+    "id_poke": "3",
+    "pokemon": "Venusaur",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon4" : {
+    "id_poke": "4",
+    "pokemon": "Charmander",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon5" : {
+    "id_poke": "5",
+    "pokemon": "Charmeleon",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon6" : {
+    "id_poke": "6",
+    "pokemon": "Charizard",
+    "weakness": "Electric, Water, Rock"
+  },
+  "pokemon7" : {
+    "id_poke": "7",
+    "pokemon": "Squirtle",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon8" : {
+    "id_poke": "8",
+    "pokemon": "Wartortle",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon9" : {
+    "id_poke": "9",
+    "pokemon": "Blastoise",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon10" : {
+    "id_poke": "10",
+    "pokemon": "Caterpie",
+    "weakness": "Rock, Flying, Fire"
+  },
+  "pokemon11" : {
+    "id_poke": "11",
+    "pokemon": "Metapod",
+    "weakness": "Rock, Flying, Fire"
+  },
+  "pokemon12" : {
+    "id_poke": "12",
+    "pokemon": "Butterfree",
+    "weakness": "Electric, Rock, Ice, Flying, Fire"
+  },
+  "pokemon13" : {
+    "id_poke": "13",
+    "pokemon": "Weedle",
+    "weakness": "Psychic, Rock, Flying, Fire"
+  },
+  "pokemon14" : {
+    "id_poke": "14",
+    "pokemon": "Kakuna",
+    "weakness": "Psychic, Rock, Flying, Fire"
+  },
+  "pokemon15" : {
+    "id_poke": "15",
+    "pokemon": "Beedrill",
+    "weakness": "Psychic, Rock, Flying, Fire"
+  },
+  "pokemon16" : {
+    "id_poke": "16",
+    "pokemon": "Pidgey",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon17" : {
+    "id_poke": "17",
+    "pokemon": "Pidgeotto",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon18" : {
+    "id_poke": "18",
+    "pokemon": "Pidgeot",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon19" : {
+    "id_poke": "19",
+    "pokemon": "Rattata",
+    "weakness": "Fighting"
+  },
+  "pokemon20" : {
+    "id_poke": "20",
+    "pokemon": "Raticate",
+    "weakness": "Fighting"
+  },
+  "pokemon21" : {
+    "id_poke": "21",
+    "pokemon": "Spearow",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon22" : {
+    "id_poke": "22",
+    "pokemon": "Fearow",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon23" : {
+    "id_poke": "23",
+    "pokemon": "Ekans",
+    "weakness": "Psychic, Ground"
+  },
+  "pokemon24" : {
+    "id_poke": "24",
+    "pokemon": "Arbok",
+    "weakness": "Psychic, Ground"
+  },
+  "pokemon25" : {
+    "id_poke": "25",
+    "pokemon": "Pikachu",
+    "weakness": "Ground"
+  },
+  "pokemon26" : {
+    "id_poke": "26",
+    "pokemon": "Raichu",
+    "weakness": "Ground"
+  },
+  "pokemon27" : {
+    "id_poke": "27",
+    "pokemon": "Sandshrew",
+    "weakness": "Water, Grass, Ice"
+  },
+  "pokemon28" : {
+    "id_poke": "28",
+    "pokemon": "Sandslash",
+    "weakness": "Water, Grass, Ice"
+  },
+  "pokemon29" : {
+    "id_poke": "29",
+    "pokemon": "Nidoran♀",
+    "weakness": "Psychic, Ground"
+  },
+  "pokemon30" : {
+    "id_poke": "30",
+    "pokemon": "Nidorina",
+    "weakness": "Psychic, Ground"
+  },
+  "pokemon31" : {
+    "id_poke": "31",
+    "pokemon": "Nidoqueen",
+    "weakness": "Psychic, Ground, Water, Ice"
+  },
+  "pokemon32" : {
+    "id_poke": "32",
+    "pokemon": "Nidoran♂",
+    "weakness": "Psychic, Ground"
+  },
+  "pokemon33" : {
+    "id_poke": "33",
+    "pokemon": "Nidorino",
+    "weakness": "Psychic, Ground"
+  },
+  "pokemon34" : {
+    "id_poke": "34",
+    "pokemon": "Nidoking",
+    "weakness": "Psychic, Ground, Water, Ice"
+  },
+  "pokemon35" : {
+    "id_poke": "35",
+    "pokemon": "Clefairy",
+    "weakness": "Poison, Steel"
+  },
+  "pokemon36" : {
+    "id_poke": "36",
+    "pokemon": "Clefable",
+    "weakness": "Poison, Steel"
+  },
+  "pokemon37" : {
+    "id_poke": "37",
+    "pokemon": "Vulpix",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon38" : {
+    "id_poke": "38",
+    "pokemon": "Ninetales",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon39" : {
+    "id_poke": "39",
+    "pokemon": "Jigglypuff",
+    "weakness": "Poison, Steel"
+  },
+  "pokemon40" : {
+    "id_poke": "40",
+    "pokemon": "Wigglytuff",
+    "weakness": "Poison, Steel"
+  },
+  "pokemon41" : {
+    "id_poke": "41",
+    "pokemon": "Zubat",
+    "weakness": "Psychic, Rock, Electric, Ice"
+  },
+  "pokemon42" : {
+    "id_poke": "42",
+    "pokemon": "Golbat",
+    "weakness": "Psychic, Rock, Electric, Ice"
+  },
+  "pokemon43" : {
+    "id_poke": "43",
+    "pokemon": "Oddish",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon44" : {
+    "id_poke": "44",
+    "pokemon": "Gloom",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon45" : {
+    "id_poke": "45",
+    "pokemon": "Vileplume",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon46" : {
+    "id_poke": "46",
+    "pokemon": "Paras",
+    "weakness": "Fire, Flying, Rock, Ice, Poison, Bug"
+  },
+  "pokemon47" : {
+    "id_poke": "47",
+    "pokemon": "Parasect",
+    "weakness": "Fire, Flying, Rock, Ice, Poison, Bug"
+  },
+  "pokemon48" : {
+    "id_poke": "48",
+    "pokemon": "Venonat",
+    "weakness": "Psychic, Rock, Flying, Fire"
+  },
+  "pokemon49" : {
+    "id_poke": "49",
+    "pokemon": "Venomoth",
+    "weakness": "Psychic, Rock, Flying, Fire"
+  },
+  "pokemon50" : {
+    "id_poke": "50",
+    "pokemon": "Diglett",
+    "weakness": "Water, Grass, Ice"
+  },
+  "pokemon51" : {
+    "id_poke": "51",
+    "pokemon": "Dugtrio",
+    "weakness": "Water, Grass, Ice"
+  },
+  "pokemon52" : {
+    "id_poke": "52",
+    "pokemon": "Meowth",
+    "weakness": "Fighting"
+  },
+  "pokemon53" : {
+    "id_poke": "53",
+    "pokemon": "Persian",
+    "weakness": "Fighting"
+  },
+  "pokemon54" : {
+    "id_poke": "54",
+    "pokemon": "Psyduck",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon55" : {
+    "id_poke": "55",
+    "pokemon": "Golduck",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon56" : {
+    "id_poke": "56",
+    "pokemon": "Mankey",
+    "weakness": "Flying, Psychic, Fairy"
+  },
+  "pokemon57" : {
+    "id_poke": "57",
+    "pokemon": "Primeape",
+    "weakness": "Flying, Psychic, Fairy"
+  },
+  "pokemon58" : {
+    "id_poke": "58",
+    "pokemon": "Growlithe",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon59" : {
+    "id_poke": "59",
+    "pokemon": "Arcanine",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon60" : {
+    "id_poke": "60",
+    "pokemon": "Poliwag",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon61" : {
+    "id_poke": "61",
+    "pokemon": "Poliwhirl",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon62" : {
+    "id_poke": "62",
+    "pokemon": "Poliwrath",
+    "weakness": "Flying, Psychic, Fairy, Electric, Grass"
+  },
+  "pokemon63" : {
+    "id_poke": "63",
+    "pokemon": "Abra",
+    "weakness": "Bug, Ghost, Dark"
+  },
+  "pokemon64" : {
+    "id_poke": "64",
+    "pokemon": "Kadabra",
+    "weakness": "Bug, Ghost, Dark"
+  },
+  "pokemon65" : {
+    "id_poke": "65",
+    "pokemon": "Alakazam",
+    "weakness": "Bug, Ghost, Dark"
+  },
+  "pokemon66" : {
+    "id_poke": "66",
+    "pokemon": "Machop",
+    "weakness": "Flying, Psychic, Fairy"
+  },
+  "pokemon67" : {
+    "id_poke": "67",
+    "pokemon": "Machoke",
+    "weakness": "Flying, Psychic, Fairy"
+  },
+  "pokemon68" : {
+    "id_poke": "68",
+    "pokemon": "Machamp",
+    "weakness": "Flying, Psychic, Fairy"
+  },
+  "pokemon69" : {
+    "id_poke": "69",
+    "pokemon": "Bellsprout",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon70" : {
+    "id_poke": "70",
+    "pokemon": "Weepinbell",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon71" : {
+    "id_poke": "71",
+    "pokemon": "Victreebell",
+    "weakness": "Psychic, Ice, Flying, Fire"
+  },
+  "pokemon72" : {
+    "id_poke": "72",
+    "pokemon": "Tentacool",
+    "weakness": "Ground, Psychic, Electric"
+  },
+  "pokemon73" : {
+    "id_poke": "73",
+    "pokemon": "Tentacruel",
+    "weakness": "Ground, Psychic, Electric"
+  },
+  "pokemon74" : {
+    "id_poke": "74",
+    "pokemon": "Geodude",
+    "weakness": "Water, Grass, Ice, Fighting, Ground, Steel"
+  },
+  "pokemon75" : {
+    "id_poke": "75",
+    "pokemon": "Graveler",
+    "weakness": "Water, Grass, Ice, Fighting, Ground, Steel"
+  },
+  "pokemon76" : {
+    "id_poke": "76",
+    "pokemon": "Golem",
+    "weakness": "Water, Grass, Ice, Fighting, Ground, Steel"
+  },
+  "pokemon77" : {
+    "id_poke": "77",
+    "pokemon": "Ponyta",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon78" : {
+    "id_poke": "78",
+    "pokemon": "Rapidash",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon79" : {
+    "id_poke": "79",
+    "pokemon": "Slowpoke",
+    "weakness": "Electric, Grass, Bug, Ghost, Dark"
+  },
+  "pokemon80" : {
+    "id_poke": "80",
+    "pokemon": "Slowbro",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon81" : {
+    "id_poke": "81",
+    "pokemon": "Magnemite",
+    "weakness": "Fire, Fighting, Ground"
+  },
+  "pokemon82" : {
+    "id_poke": "82",
+    "pokemon": "Magneton",
+    "weakness": "Fire, Fighting, Ground"
+  },
+  "pokemon83" : {
+    "id_poke": "83",
+    "pokemon": "Farfetch'd",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon84" : {
+    "id_poke": "84",
+    "pokemon": "Doduo",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon85" : {
+    "id_poke": "85",
+    "pokemon": "Dodrio",
+    "weakness": "Electric, Rock, Ice"
+  },
+  "pokemon86" : {
+    "id_poke": "86",
+    "pokemon": "Seel",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon87" : {
+    "id_poke": "87",
+    "pokemon": "Dewgong",
+    "weakness": "Electric, Grass, Flying, Rock"
+  },
+  "pokemon88" : {
+    "id_poke": "88",
+    "pokemon": "Grimer",
+    "weakness": "Ground, Psychic"
+  },
+  "pokemon89" : {
+    "id_poke": "89",
+    "pokemon": "Muk",
+    "weakness": "Ground, Psychic"
+  },
+  "pokemon90" : {
+    "id_poke": "90",
+    "pokemon": "Shellder",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon91" : {
+    "id_poke": "91",
+    "pokemon": "Cloyster",
+    "weakness": "Electric, Grass, Flying, Rock"
+  },
+  "pokemon92" : {
+    "id_poke": "92",
+    "pokemon": "Ghastly",
+    "weakness": "Ground, Psychic, Ghost, Dark"
+  },
+  "pokemon93" : {
+    "id_poke": "93",
+    "pokemon": "Haunter",
+    "weakness": "Ground, Psychic, Ghost, Dark"
+  },
+  "pokemon94" : {
+    "id_poke": "94",
+    "pokemon": "Gengar",
+    "weakness": "Ground, Psychic, Ghost, Dark"
+  },
+  "pokemon95" : {
+    "id_poke": "95",
+    "pokemon": "Onix",
+    "weakness": "Water, Grass, Ice, Fighting, Ground, Steel"
+  },
+  "pokemon96" : {
+    "id_poke": "96",
+    "pokemon": "Drowzee",
+    "weakness": "Bug, Ghost, Dark"
+  },
+  "pokemon97" : {
+    "id_poke": "97",
+    "pokemon": "Hypno",
+    "weakness": "Bug, Ghost, Dark"
+  },
+  "pokemon98" : {
+    "id_poke": "98",
+    "pokemon": "Krabby",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon99" : {
+    "id_poke": "99",
+    "pokemon": "Kingler",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon100" : {
+    "id_poke": "100",
+    "pokemon": "Voltorb",
+    "weakness": "Ground"
+  },
+  "pokemon101" : {
+    "id_poke": "101",
+    "pokemon": "Electrode",
+    "weakness": "Ground"
+  },
+  "pokemon102" : {
+    "id_poke": "102",
+    "pokemon": "Exeggcute",
+    "weakness": "Fire, Ice, Poison, Flying, Bug, Ghost, Dark"
+  },
+  "pokemon103" : {
+    "id_poke": "103",
+    "pokemon": "Exeggutor",
+    "weakness": "Fire, Ice, Poison, Flying, Bug, Ghost, Dark"
+  },
+  "pokemon104" : {
+    "id_poke": "104",
+    "pokemon": "Cubone",
+    "weakness": "Water, Grass, Ice"
+  },
+  "pokemon105" : {
+    "id_poke": "105",
+    "pokemon": "Marowak",
+    "weakness": "Water, Grass, Ice"
+  },
+  "pokemon106" : {
+    "id_poke": "106",
+    "pokemon": "Hitmonlee",
+    "weakness": "Flying, Psychic, Fairy"
+  },
+  "pokemon107" : {
+    "id_poke": "107",
+    "pokemon": "Hitmonchan",
+    "weakness": "Flying, Psychic, Fairy"
+  },
+  "pokemon108" : {
+    "id_poke": "108",
+    "pokemon": "Lickitung",
+    "weakness": "Fighting"
+  },
+  "pokemon109" : {
+    "id_poke": "109",
+    "pokemon": "Koffing",
+    "weakness": "Ground, Psychic"
+  },
+  "pokemon110" : {
+    "id_poke": "110",
+    "pokemon": "Weezing",
+    "weakness": "Ground, Psychic"
+  },
+  "pokemon111" : {
+    "id_poke": "111",
+    "pokemon": "Rhyhorn",
+    "weakness": "Water, Grass, Ice, Fighting, Ground, Steel"
+  },
+  "pokemon112" : {
+    "id_poke": "112",
+    "pokemon": "Rhydon",
+    "weakness": "Water, Grass, Ice, Fighting, Ground, Steel"
+  },
+  "pokemon113" : {
+    "id_poke": "113",
+    "pokemon": "Chansey",
+    "weakness": "Fighting"
+  },
+  "pokemon114" : {
+    "id_poke": "114",
+    "pokemon": "Tangela",
+    "weakness": "Fire, Ice, Poison, Flying, Bug"
+  },
+  "pokemon115" : {
+    "id_poke": "115",
+    "pokemon": "Kangaskhan",
+    "weakness": "Fighting"
+  },
+  "pokemon116" : {
+    "id_poke": "116",
+    "pokemon": "Horsea",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon117" : {
+    "id_poke": "117",
+    "pokemon": "Seadra",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon118" : {
+    "id_poke": "118",
+    "pokemon": "Goldeen",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon119" : {
+    "id_poke": "119",
+    "pokemon": "Seaking",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon120" : {
+    "id_poke": "120",
+    "pokemon": "Staryu",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon121" : {
+    "id_poke": "121",
+    "pokemon": "Starmie",
+    "weakness": "Electric, Grass, Bug, Ghost, Dark"
+  },
+  "pokemon122" : {
+    "id_poke": "122",
+    "pokemon": "Mr. Mime",
+    "weakness": "Poison, Steel, Ghost"
+  },
+  "pokemon123" : {
+    "id_poke": "123",
+    "pokemon": "Scyther",
+    "weakness": "Electric, Ice, Rock, Fire, Flying"
+  },
+  "pokemon124" : {
+    "id_poke": "124",
+    "pokemon": "Jynx",
+    "weakness": "Fire, Rock, Steel, Bug, Ghost, Dark"
+  },
+  "pokemon125" : {
+    "id_poke": "125",
+    "pokemon": "Electabuzz",
+    "weakness": "Ground"
+  },
+  "pokemon126" : {
+    "id_poke": "126",
+    "pokemon": "Magmar",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon127" : {
+    "id_poke": "127",
+    "pokemon": "Pinsir",
+    "weakness": "Fire, Flying, Rock"
+  },
+  "pokemon128" : {
+    "id_poke": "128",
+    "pokemon": "Tauros",
+    "weakness": "Fighting"
+  },
+  "pokemon129" : {
+    "id_poke": "129",
+    "pokemon": "Magikarp",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon130" : {
+    "id_poke": "130",
+    "pokemon": "Gyarados",
+    "weakness": "Electric, Rock"
+  },
+  "pokemon131" : {
+    "id_poke": "131",
+    "pokemon": "Lapras",
+    "weakness": "Electric, Grass, Fighting, Rock"
+  },
+  "pokemon132" : {
+    "id_poke": "132",
+    "pokemon": "Ditto",
+    "weakness": "Fighting"
+  },
+  "pokemon133" : {
+    "id_poke": "133",
+    "pokemon": "Eevee",
+    "weakness": "Fighting"
+  },
+  "pokemon134" : {
+    "id_poke": "134",
+    "pokemon": "Vaporeon",
+    "weakness": "Electric, Grass"
+  },
+  "pokemon135" : {
+    "id_poke": "135",
+    "pokemon": "Jolteon",
+    "weakness": "Ground"
+  },
+  "pokemon136" : {
+    "id_poke": "136",
+    "pokemon": "Flareon",
+    "weakness": "Water, Ground, Rock"
+  },
+  "pokemon137" : {
+    "id_poke": "137",
+    "pokemon": "Porygon",
+    "weakness": "Fighting"
+  },
+  "pokemon138" : {
+    "id_poke": "138",
+    "pokemon": "Omanyte",
+    "weakness": "Grass, Fighting, Ground, Electric"
+  },
+  "pokemon139" : {
+    "id_poke": "139",
+    "pokemon": "Omastar",
+    "weakness": "Grass, Fighting, Ground, Electric"
+  },
+  "pokemon140" : {
+    "id_poke": "140",
+    "pokemon": "Kabuto",
+    "weakness": "Grass, Fighting, Ground, Electric"
+  },
+  "pokemon141" : {
+    "id_poke": "141",
+    "pokemon": "Kabutops",
+    "weakness": "Grass, Fighting, Ground, Electric"
+  },
+  "pokemon142" : {
+    "id_poke": "142",
+    "pokemon": "Aerodactyl",
+    "weakness": "Electric, Ice, Rock, Water, Ground, Steel"
+  },
+  "pokemon143" : {
+    "id_poke": "143",
+    "pokemon": "Snorlax",
+    "weakness": "Fighting"
+  },
+  "pokemon144" : {
+    "id_poke": "144",
+    "pokemon": "Articuno",
+    "weakness": "Electric, Rock, Fire, Steel"
+  },
+  "pokemon145" : {
+    "id_poke": "145",
+    "pokemon": "Zapdos",
+    "weakness": "Ice, Rock"
+  },
+  "pokemon146" : {
+    "id_poke": "146",
+    "pokemon": "Moltres",
+    "weakness": "Electric, Rock, Water"
+  },
+  "pokemon147" : {
+    "id_poke": "147",
+    "pokemon": "Dratini",
+    "weakness": "Ice, Dragon, Fairy"
+  },
+  "pokemon148" : {
+    "id_poke": "148",
+    "pokemon": "Dragonair",
+    "weakness": "Ice, Dragon, Fairy"
+  },
+  "pokemon149" : {
+    "id_poke": "149",
+    "pokemon": "Dragonite",
+    "weakness": "Ice, Rock, Dragon, Fairy"
+  },
+  "pokemon150" : {
+    "id_poke": "150",
+    "pokemon": "Mewtwo",
+    "weakness": "Bug, Ghost, Dark"
+  },
+  "pokemon151" : {
+    "id_poke": "151",
+    "pokemon": "Mew",
+    "weakness": "Bug, Ghost, Dark"
+  }
+}

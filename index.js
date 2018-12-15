@@ -2,6 +2,9 @@
 
 const express = require('express');
 const app = express();
+var fs = require("fs");
+
+const routeMain = require('./server.js');
 
 app.get('/', (req, res) => res.sendFile('index.html', { root : __dirname}));
 
@@ -14,8 +17,21 @@ const passport = require('passport');
 app.use(passport.initialize());
 app.use(passport.session());
 
+//Authentication handling
 app.get('/success', (req, res) => res.sendFile('main.html', {root : __dirname}));
 app.get('/error', (req, res) => res.send("error logging in"));
+
+//Show JSON
+app.get('/search', function (req, res) {
+   fs.readFile( __dirname + "/" + "pokeweakness.json", 'utf8', function (err, data) {
+      if (err) {
+         res.send('error');
+      }
+      var pokeweakness = JSON.parse(data);
+      var pokemon = pokeweakness["pokemon" + req.query.pokeid]
+      res.json(pokemon);
+   });
+})
 
 passport.serializeUser(function(user, cb) {
   cb(null, user);
