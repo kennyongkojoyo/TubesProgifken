@@ -4,9 +4,10 @@ const express = require('express');
 const app = express();
 var fs = require("fs");
 
-const routeMain = require('./server.js');
-
 app.get('/', (req, res) => res.sendFile('index.html', { root : __dirname}));
+
+app.engine('html', require('ejs').renderFile);
+app.set('view engine', 'ejs');
 
 const port = process.env.PORT || 3000;
 app.listen(port , () => console.log('App listening on port ' + port));
@@ -18,7 +19,11 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 //Authentication handling
-app.get('/success', (req, res) => res.sendFile('main.html', {root : __dirname}));
+app.get('/success', function (req, res) {
+   res.render('../main.html', { dat: " "}, function(err, html) {
+      res.send(html);
+   });
+})
 app.get('/error', (req, res) => res.send("error logging in"));
 
 //Show JSON
@@ -29,7 +34,9 @@ app.get('/search', function (req, res) {
       }
       var pokeweakness = JSON.parse(data);
       var pokemon = pokeweakness["pokemon" + req.query.pokeid]
-      res.json(pokemon);
+      res.render('../main.html', { dat: JSON.stringify(pokemon)}, function(err, html) {
+        res.send(html);
+      })
    });
 })
 
@@ -65,4 +72,4 @@ app.get('/auth/facebook/callback',
   passport.authenticate('facebook', { failureRedirect: '/error' }),
   function(req, res) {
     res.redirect('/success');
-  });
+});
